@@ -4,7 +4,7 @@ title: about
 permalink: /
 pronouns: he/him
 other_name: ធី សុិវុិន
-subtitle: Student. Software Engineer. Programming Languages and Concurrent Systems enthusiast.
+subtitle: <i>Student. Software Engineer. Programming Languages and Concurrent Systems Enthusiast.</i>
 
 profile:
   align: right
