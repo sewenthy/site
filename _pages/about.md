@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+pronouns: he/him
+other_name: ធី សុិវុិន
 subtitle: Student. Software Engineer. Programming Languages and Concurrent Systems enthusiast.
 
 profile:
