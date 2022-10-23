@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-17 09:30:00-0000
 inline: true
 ---
 
-A simple inline announcement.
+Started working at Ahrefs.
