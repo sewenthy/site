@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sewenthy
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sewenthy/testing_web_scraping_strategies
+  - ahrefs/monorobot
+  - sewenthy/IB-Pseudocode-Interpreter
+  - sewenthy/priority_mutex
+  - mauriceccy/scobra 
+  - tianrui98/Dodge-Bullet-Game
