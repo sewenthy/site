@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: sewenthy # your GitHub user name
-gitlab_username: sewen770 # your GitLab user name
+gitlab_username: # your GitLab user name
 twitter_username: SewenThy # your Twitter handle
 linkedin_username: sthy # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -222,7 +222,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: [] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
