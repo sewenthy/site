@@ -2,8 +2,9 @@ github_users:
   - sewenthy
 
 github_repos:
-  - sewenthy/testing_web_scraping_strategies
+  - ahrefs/slack
   - ahrefs/monorobot
+  - sewenthy/testing_web_scraping_strategies
   - sewenthy/IB-Pseudocode-Interpreter
   - sewenthy/priority_mutex
   - mauriceccy/scobra 
