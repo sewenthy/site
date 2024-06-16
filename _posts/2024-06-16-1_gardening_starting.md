@@ -31,10 +31,8 @@ I got the seedling tray that has some holes in the bottom since I'm completely n
 I got the soil and seed, from a local seller for a combined of ~SGD5 and the rest I got off of AliExpress which totals to ~SGD10.  
 
 I only just started to sow the seeds yesterday and we will see the result soon!  
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-		{% include figure.html path="assets/img/seedling_tray_starting.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
-	</div>
+<div class="l-body">
+	{% include figure.html path="assets/img/seedling_tray_starting.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 # Minor automation
