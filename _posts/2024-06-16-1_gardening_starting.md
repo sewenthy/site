@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Urban Gardening with Automations
-date: 2024-06-16 11:22:00
+date: 2024-06-16 00:00:00
 description: Initial work for the garden and some planning for future automations
 tags: zigbee gardening urban home-assistant zha butterfly-pea bee
 categories: gardening home-automations
