@@ -31,8 +31,10 @@ I got the seedling tray that have some holes in the bottom since I'm completely 
 I got the soil and seed, from a local seller for a combined of ~SGD5 and the rest I got off of AliExpress which totals to ~SGD10.  
 
 I only just started to sow the seeds yesterday and we will see the result soon!  
-<div class="fake-img l-body">
-  {% include figure.html path="assets/img/seedling_tray_starting.jpeg" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/img/seedling_tray_starting.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 # Minor automations
@@ -47,12 +49,13 @@ After this fix and [enabling HA to use the quirks](https://community.home-assist
 
 I recorded the before and after watering moisture and temperature of the seedling tray, and I thought it was quite cool even though it's quite a simple graph currently.  
 
-<div class="fake-img l-body">
-  {% include figure.html path="assets/img/soil_moist_temp_graph.jpg" class="img-fluid rounded z-depth-1" %}
-</div>
-
-<div class="fake-img l-body">
-  {% include figure.html path="assets/img/seedling_tray_moisture_sensor.jpeg" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/img/soil_moist_temp_graph.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.html path="assets/img/seedling_tray_moisture_sensor.jpeg" class="img-fluid rounded z-depth-1" %}
+	</div>
 </div>
 
 # Plans for more automations
